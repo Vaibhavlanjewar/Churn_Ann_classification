@@ -4,21 +4,21 @@ This project demonstrates the use of Artificial Neural Networks (ANN) for classi
 Visit Streamlit app:<a href="https://ann-churn-classification-vnbl.streamlit.app/">Click</a>
 
 Clone the repository:
->>>>git clone [https://github.com/yourusername/ann-classification.git](https://github.com/vaibhavlanjewar/churn_ann_classification/blob/main/app.py)
->>>>cd ann-classification
+>git clone [https://github.com/yourusername/ann-classification.git](https://github.com/vaibhavlanjewar/churn_ann_classification/blob/main/app.py)
+>cd ann-classification
 
 Create and activate a virtual environment:
->>>>python -m venv venv
->>>>python -m venv venv
+>python -m venv venv
+>python -m venv venv
 On Windows
 
->>>>.\venv\Scripts\activate
+>.\venv\Scripts\activate
  On macOS/Linux
->>>>source venv/bin/activate
+>source venv/bin/activate
 
 Install the required packages:
->>>>pip install --upgrade pip
->>>>pip install -r requirements.txt
+>pip install --upgrade pip
+>pip install -r requirements.txt
 
 
 
