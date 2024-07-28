@@ -75,3 +75,4 @@ st.write("GitHub: [Vaibhavlanjewar](https://github.com/Vaibhavlanjewar/)")
 st.write("LinkedIn: [Vaibhav Lanjewar](https://www.linkedin.com/in/vaibhavlanjewar/)")
 st.write("--------------------------------------------------------------------------------------------------------------")
 
+st.write("Thank You for visiting")
