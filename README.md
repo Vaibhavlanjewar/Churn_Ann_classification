@@ -5,7 +5,7 @@ Visit Streamlit app:<a href="https://ann-churn-classification-vnbl.streamlit.app
 <br>
 Run Few Command -<br>
 Clone the repository:<br>
->git clone https://github.com/yourusername/ann-classification.git<br>
+>git clone https://github.com/Vaibhavlanjewar/Churn_Ann_classification<br>
 >cd ann-classification<br>
 
 Create and activate a virtual environment:<br>
